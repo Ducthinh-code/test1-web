@@ -381,7 +381,7 @@
 .combot3{
 	margin-left: 920px;
 	position: absolute;
-	margin-top: -365px;
+	top: 2785px;
 	list-style-type: none;
 	font-size: 19px;
 	color:  #2b548f;
@@ -546,19 +546,121 @@
 	background-color: white;
 }
 .bg6-1>h1{
-	font-size: 30px;
+	font-size: 25px;
 	color: #1d4c8b;
 }
 .bg6-1>p{
-	font-size: 27px;
+	margin-top: 10px;
+	font-size: 23px;
 	color: #1d4c8b;
+}
+
+.bg6-2>h1{
+	margin-top: -120px;
+	margin-left: 300px;
+	font-size: 25px;
+	color: #1d4c8b;
+}
+.bg6-2>p{
+	padding: 5px;
+	position: relative;
+	top: 25px;
+	margin-left: 300px;
+	font-size: 23px;
+	color: #1d4c8b;
+}
+.bg6-3>h1{
+	margin-top: -100px;
+	margin-left: 650px;
+	font-size: 25px;
+	color: #1d4c8b;
+}
+.bg6-3>p{
+	padding: 5px;
+	position: relative;
+	top: 25px;
+	margin-left: 650px;
+	font-size: 23px;
+	color: #1d4c8b;
+}
+.bg6-4>h1{
+	margin-top: -66px;
+	margin-left: 1020px;
+	font-size: 25px;
+	color: #1d4c8b;
+}
+
+.bg6-4>p{
+	padding: 5px;
+	position: relative;
+	top: 25px;
+	margin-left: 1020px;
+	font-size: 23px;
+	color: #1d4c8b;
+}
+.bg6-5 img{
+	margin-top: 100px;
+	width: 170px;
+}
+
+.search{
+	margin-left: 300px;
+	margin-top: -75px;
+	border: 3px solid #1d4c8b;
+	width: 350px;
+	height: 57px;
+}
+.search1{
+	margin-top: -7px;
+	background-color: #1d4c8b;
+	border-radius: 50px;
+	width: 200px;
+	height: 57px;
+	margin-left: 400px;
+	border: 1px solid  #1d4c8b;
+}
+#search1-1{
+	margin-top: 17px;
+	margin-left: 37px;
+	color: white;
+	font-size: 20px;
+}
+#search2{
+	margin-left: 20px;
+	margin-top: -40px;
+	font-size: 25px;
+	color: #1d4c8b;
+}
+.search p{
+	float: right;
+	color: #1d4c8b;
+	font-size: 25px;
+	margin-right: -520px;
+	margin-top: -80px;
+}
+.logo-ins img{
+	width: 50px;
+	margin-top: -200px;
+	margin-left: 1010px;
+}
+.logo-Fb img{
+	position: absolute;
+	width: 51px;
+	margin-top: -55px;
+	margin-left: 1085px;
 }
 .bg7{
 	margin: auto;
 	padding: 0px;
-	font-size: 20px;
-	text-align: center;
 	height: 50px;
 	width: 100%;
 	background-color: #a8baca;
+}
+.bg7 p{
+	text-align: center;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	color: #1d4c8b;
+	top: 20px;
 }
